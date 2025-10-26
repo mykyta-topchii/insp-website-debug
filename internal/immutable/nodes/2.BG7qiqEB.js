@@ -1,1 +1,0 @@
-import"../chunks/DsnmJJEf.js";import{i as p}from"../chunks/Cdr_0sJl.js";import{o as t}from"../chunks/BtjZqtVT.js";import{p as s,f as i,a as m,b as f}from"../chunks/L29yv0c6.js";import{g as n}from"../chunks/Dw01n5Ii.js";var e=i('<div class="min-h-screen w-full"></div>');function g(o,r){s(r,!1),t(()=>{n("products/futudraw")}),p();var a=e();m(o,a),f()}export{g as component};
