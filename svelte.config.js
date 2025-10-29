@@ -15,7 +15,7 @@ const config = {
 	    strict: false,
     }),
     paths: {
-      base: dev ? '' : '/inspirators-web',
+      base: dev ? '' : '/insp-website-debug',
     },
     appDir: 'internal',
   },
